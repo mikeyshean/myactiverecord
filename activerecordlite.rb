@@ -1,0 +1,7 @@
+require 'active_support/inflector'
+require 'sqlite3'
+require './lib/db_connection'
+require './lib/assoc_options'
+require './lib/associatable'
+require './lib/searchable'
+require './lib/sql_object'
